@@ -1,0 +1,9 @@
+Noto Serif SC
+Copyright 2014-2024 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.
+Copyright 2014-2024 Google LLC.
+Licensed under the SIL Open Font License, Version 1.1.
+https://github.com/notofonts/noto-cjk
+
+This app bundles a subset of Noto Serif SC (weights 400/700, variable)
+containing only the characters used by the recipe archive and interface.
+The font is loaded locally from www/fonts; no network request is made.

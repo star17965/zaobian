@@ -1,0 +1,21 @@
+# Build output
+dist/
+android/build/
+android/assets/
+
+# Local signing material
+keystore/
+*.keystore
+*.jks
+*.idsig
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local data / dependencies
+node_modules/
+vendor/
+data/full/
