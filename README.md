@@ -6,6 +6,8 @@
 
 ![灶边 Demo 首页](docs/demo-home.png)
 
+**[下载 v0.1.0 demo APK](https://github.com/star17965/zaobian/releases/latest)**（约 510 KB，Android 6.0+，6 条原创示例配方）
+
 > 当前仓库是**代码 + 6 条原创 demo 数据**。完整 340 条 CookLikeHOC 数据和图片没有包含在仓库里，原因见 [NOTICE.md](NOTICE.md)。
 
 ## 功能
